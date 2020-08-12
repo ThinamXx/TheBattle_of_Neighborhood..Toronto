@@ -9,5 +9,5 @@ These tourists promote the Tourism Industries which generate a very competitive 
 - My analysis basically deals with finding the best Neighborhood in Toronto to establish a restaurant and helps the investors for making profitable investment.
 
 **Note:**
-
-[The Battle of Toronto Neighborhood](https://github.com/ThinamXx/TheBattle_of_Neighborhood..Toronto/blob/master/THE%20BATTLE%20OF%20NEIGHBORHOOD.pdf)
+- You can read full descriptions about my findings and insights of Toronto Neighborhood in the link below.
+[**The Battle of Toronto Neighborhood**](https://github.com/ThinamXx/TheBattle_of_Neighborhood..Toronto/blob/master/THE%20BATTLE%20OF%20NEIGHBORHOOD.pdf)
