@@ -10,4 +10,4 @@ These tourists promote the Tourism Industries which generate a very competitive 
 
 **Note:**
 
-[**The Battle of Toronto Neighborhood**](https://github.com/ThinamXx/TheBattle_of_Neighborhood..Toronto/blob/master/THE%20BATTLE%20OF%20NEIGHBORHOOD.pdf)
+[The Battle of Toronto Neighborhood](https://github.com/ThinamXx/TheBattle_of_Neighborhood..Toronto/blob/master/THE%20BATTLE%20OF%20NEIGHBORHOOD.pdf)
